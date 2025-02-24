@@ -6,7 +6,7 @@ return (
   <header>
     <nav>
       <ul>
-        <li><a href="port.html">Home</a></li>
+        <li><a href="#Home">Home</a></li>
         <li><a href="#Skills">Skills</a></li>
         <li><a href="#Projects">Projects</a></li>
         <li><a href="#exp">Experience</a></li>
@@ -15,7 +15,7 @@ return (
   </header>
   
   <div className="sect">
-    <section className="sect1">
+    <section id="Home"className="sect1">
       <div className="sdiv1">
         <h1 style={{ fontFamily: "Franklin Gothic Medium", fontSize: "60px" }}>Hello</h1>
         <h1 style={{ fontFamily: "cursive", fontSize: "50px" }}>I'm Nandika</h1>
@@ -55,7 +55,7 @@ return (
     
     <section className="sect2">
       <div className="sdiv2">
-        <img src="" alt="Profile" />
+        <img src="https://tse1.mm.bing.net/th?id=OIP.wQ9NDpYb2xwmBVw1zvJkLgAAAA&pid=Api&P=0&h=180" alt="Profile" />
       </div>
     </section>
   </div>
