@@ -55,7 +55,7 @@ return (
     
     <section className="sect2">
       <div className="sdiv2">
-        <img src="./profiletra.png" alt="Profile" />
+        <img src="" alt="Profile" />
       </div>
     </section>
   </div>
